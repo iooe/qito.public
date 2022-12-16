@@ -1,1 +1,1 @@
-# Qito: a narrative-driven game engin
+# Qito: a narrative-driven game engine
